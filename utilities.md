@@ -16,6 +16,8 @@
  3. Choose the application where the keyboard shortcut will be used from the menu at the top of the popup window
  4. Enter the name of the menu command exactly as it appears in the application you selected in step 3
  5. Choose a shortcut by typing it into the Shortcut text box, then click Add
+ 
+Alternatively use Automator (http://www.macosxautomation.com/automator/) to create your own utilities
 
 ## Visual Grep tools
 

@@ -29,3 +29,4 @@ Alternatively use Automator (http://www.macosxautomation.com/automator/) to crea
 GrepWin: https://tools.stefankueng.com/grepWin.html
 
 ## Visual Diff/Merge tools
+WinMerge: https://winmerge.org/

@@ -20,6 +20,7 @@
 Alternatively use Automator (http://www.macosxautomation.com/automator/) to create your own utilities
 
 ## Visual Grep tools
+- Rummage: https://facelessuser.github.io/Rummage/
 
 ## Visual Diff/Merge tools
 - Meld: https://yousseb.github.io/meld/

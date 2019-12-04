@@ -24,6 +24,11 @@ Alternatively use Automator (http://www.macosxautomation.com/automator/) to crea
 
 ## Visual Diff/Merge tools
 - Meld: https://yousseb.github.io/meld/
+
+## SQL Database Management
+- DBeaver: https://dbeaver.io/download/ (support for SQL Server, MySQL, PostgreSQL, SQLite, etc.)
+
+
 # PC Specific Utilities
 
 ## Visual Grep tools

@@ -8,6 +8,7 @@
 ## Critical built in hotkeys:
 - Open a Finder instance: <kbd>option ⌥</kbd>+<kbd>command ⌘</kbd>+<kbd>spacebar</kbd>
 - Force Quit (Task Manager): <kbd>command ⌘</kbd>+<kbd>option ⌥</kbd>+<kbd>escape</kbd>
+- Spotlight: <kbd>command ⌘</kbd>+<kbd>spacebar</kbd>
 
 ## Creating application hotkey shortcuts:
  1. Apple, System Preferences, Keyboard

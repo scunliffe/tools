@@ -6,7 +6,7 @@
 # Mac Specific Utilities
 
 ## Critical built in hotkeys:
-- Open a Finder instance: <kbd>option ⌥</kbd>+<kbd>command ⌘</kbd>+<kbd>spacebar</kbd>
+- Open a Finder instance: <kbd>option ⌥</kbd>+<kbd>command ⌘</kbd>+<kbd>spacebar</kbd> or <kbd>command ⌘</kbd>+<kbd>F</kbd> 
 - Force Quit (Task Manager): <kbd>command ⌘</kbd>+<kbd>option ⌥</kbd>+<kbd>escape</kbd>
 - Spotlight: <kbd>command ⌘</kbd>+<kbd>spacebar</kbd>
 

@@ -26,8 +26,10 @@ Alternatively use Automator (http://www.macosxautomation.com/automator/) to crea
 ## Visual Grep tools
 - Rummage: https://facelessuser.github.io/Rummage/
 - MassReplaceIt: https://www.hexmonkeysoftware.com/
+
+## Editors:
 - VSCode: https://code.visualstudio.com/
-- 
+- Visual Studio: 
 
 ## Visual Diff/Merge tools
 - Meld: https://yousseb.github.io/meld/
@@ -52,6 +54,7 @@ Alternatively use Automator (http://www.macosxautomation.com/automator/) to crea
 - Chrome: https://www.google.com/intl/en_ca/chrome/
 - Edge: https://www.microsoft.com/en-us/edge/download
 - Opera: https://www.opera.com/download
+- Vivaldi: https://vivaldi.com/
 
 ## Communication:
 - Discord: https://discord.com/download

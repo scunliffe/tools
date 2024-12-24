@@ -19,14 +19,47 @@
  
 Alternatively use Automator (http://www.macosxautomation.com/automator/) to create your own utilities
 
+## OS Tools
+- Rectangle (window management): https://rectangleapp.com/
+- 
+
 ## Visual Grep tools
 - Rummage: https://facelessuser.github.io/Rummage/
+- MassReplaceIt: https://www.hexmonkeysoftware.com/
+- VSCode: https://code.visualstudio.com/
+- 
 
 ## Visual Diff/Merge tools
 - Meld: https://yousseb.github.io/meld/
 
 ## SQL Database Management
 - DBeaver: https://dbeaver.io/download/ (support for SQL Server, MySQL, PostgreSQL, SQLite, etc.)
+
+## Audio
+- Audacity: https://www.audacityteam.org/
+
+## Images:
+- XnView: https://www.xnview.com/en/
+
+## Design
+- AutoCAD: https://www.autodesk.com/ca-en/products/autocad/
+- Unity: https://unity.com/
+- Blender: https://www.blender.org/download/
+
+## Browsers:
+- Firefox: https://getfirefox.com/
+- Brave: https://brave.com/
+- Chrome: https://www.google.com/intl/en_ca/chrome/
+- Edge: https://www.microsoft.com/en-us/edge/download
+- Opera: https://www.opera.com/download
+
+## Communication:
+- Discord: https://discord.com/download
+- 
+
+## Files:
+- Unarchiver: 
+
 
 
 # PC Specific Utilities
